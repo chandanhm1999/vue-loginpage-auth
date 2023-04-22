@@ -4,6 +4,9 @@ Frontend Developer Internship at Secure Blink Task!
 
 Project completed with The help of Firebase Auth!
 Tools used: VS Code!
+![vue](https://user-images.githubusercontent.com/109410990/233786485-ec57e823-0540-4ecb-bc56-24776d3b54b4.png)
+
+
 # Vue
 
 ## Project setup
