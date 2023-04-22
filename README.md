@@ -6,8 +6,8 @@ Project completed with The help of Firebase Auth!
 Tools used: VS Code!
 ![vue](https://user-images.githubusercontent.com/109410990/233786485-ec57e823-0540-4ecb-bc56-24776d3b54b4.png)
 
+https://user-images.githubusercontent.com/109410990/233787704-0b801282-7d4e-40b4-9b05-85cf01716ad3.mp4
 
-Uploading loginpage.mp4…
 
 # Vue
 
