@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "vue-loginpage",
+			"path": "."
+		},
+		{
+			"name": "src",
+			"path": "../yt-vuejs-firebase9-auth/src"
+		}
+	],
+	"settings": {}
+}
