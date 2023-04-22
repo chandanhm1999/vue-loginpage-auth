@@ -1,3 +1,9 @@
+Frontend Developer Internship at Secure Blink Task!
+> To design a responsive one-page web app using Vue.js
+> Basic form validation
+
+Project completed with The help of Firebase Auth!
+Tools used: VS Code!
 # Vue
 
 ## Project setup
